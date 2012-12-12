@@ -1,4 +1,4 @@
-django-google
+django_google
 =============
 
 Django Google is an Apache2 Licensed library, intending to make it easy to use Google services
